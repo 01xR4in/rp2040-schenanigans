@@ -11,11 +11,9 @@ My current setup is:
 - VScode with the [MicroPico](https://marketplace.visualstudio.com/items?itemName=paulober.pico-w-go) extention 
 
 ## Current programs:
-
 - blinky.py - Simple LED Blinking script
 
-
-## Roadmap:
+## Roadmap:
 
 - HID Stuff
 - More in-depth pin management
